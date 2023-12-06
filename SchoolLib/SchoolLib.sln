@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolLib", "SchoolLib\SchoolLib.csproj", "{079BC9EE-76AD-4743-A69D-524CEB86A918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestPrjt", "NUnitTestPrjt\NUnitTestPrjt.csproj", "{449CA7D7-AC75-441E-A4BF-393685FB600D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079BC9EE-76AD-4743-A69D-524CEB86A918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079BC9EE-76AD-4743-A69D-524CEB86A918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079BC9EE-76AD-4743-A69D-524CEB86A918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079BC9EE-76AD-4743-A69D-524CEB86A918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449CA7D7-AC75-441E-A4BF-393685FB600D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449CA7D7-AC75-441E-A4BF-393685FB600D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449CA7D7-AC75-441E-A4BF-393685FB600D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449CA7D7-AC75-441E-A4BF-393685FB600D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3795AE9D-A61B-4875-B1E1-5900ECEB92EE}
+	EndGlobalSection
+EndGlobal
